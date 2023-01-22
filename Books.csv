@@ -1,0 +1,16 @@
+﻿Book_ID,Title,Author_ID,Publisher_ID,ISBN_Number,Genre
+1,To Kill a Mockingbird,4,4,9.78E+12,Southern Gothic Fiction
+2,The Great Gatsby,1,5,9.78E+12,Tragedy
+3,A Tale of Two Cities,6,2,9.78E+12,Historical Fiction
+4,Things Fall Apart,3,8,9.78E+12,Historical Fiction
+5,Tamas,7,9,9.79E+12,Fiction
+6,The Beautiful and Dammed ,1,6,9.78E+12,Tragedy
+7,Little Women,8,10,9.78E+12,Comedy
+8,Pride and Prejudice,9,1,9.78E+12,Fiction
+9,Lord of the Rings,5,7,9.78E+12,Fantasy Fiction
+10,Kite Runner,2,2,9.78E+12,Historical Fiction
+11,The Catcher in the Rye,10,13,9.78E+12,Young Adult Fiction 
+12,Lord of the Flies ,14,14,9.78E+12,Young Adult Fiction 
+13,Hamlet ,13,15,9.78E+12,Tragedy
+14,Animal Farm ,12,12,9.78E+12,Dystopian Fiction 
+15,The Color Purple ,11,11,9.78E+12,Domestic Fiction
